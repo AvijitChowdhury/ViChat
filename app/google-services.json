@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "145524402720",
+    "project_id": "v-chat2",
+    "storage_bucket": "v-chat2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145524402720:android:0f4fd0cb128efe3f3caa45",
+        "android_client_info": {
+          "package_name": "com.example.guftgo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "145524402720-ujc3an3hli3s5f25md16tl05sipnsqkn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDw_VYbD1DXnoGt3i2s089fGvaRu9eJ1uQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "145524402720-ujc3an3hli3s5f25md16tl05sipnsqkn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
